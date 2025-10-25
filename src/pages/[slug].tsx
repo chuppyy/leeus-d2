@@ -37,7 +37,6 @@ export default function Page(data: any) {
   //     }
   //   };
   // }, [videoScriptSrc]);
-
 /*
 useEffect(() => {
   // New Script
